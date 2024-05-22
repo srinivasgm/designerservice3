@@ -1,0 +1,19 @@
+
+<RoleDesignTime
+	xmlns:cws="http://schemas.cordys.com/cws/1.0"
+	type="com.cordys.organization.role.RoleDesignTime"
+	typeVersion="0242a425-d150-11e7-e026-4d289331252b"
+	RuntimeDocumentID="28DFEB6B-98A5-A1EF-8605-B7DB1EF3C9E9">
+	<DocumentID>28DFEB6B-98A5-A1EF-8605-B7DB1EF389E9</DocumentID>
+	<Name>TestRole1</Name>
+	<Description>TestRole1</Description>
+	<CreatedBy>sysadmin</CreatedBy>
+	<CreationDate>2024-05-22T08:42:57.518</CreationDate>
+	<Notes/>
+	<DistinguishedName>cn=#roleName#, cn=#ISVPName#, #LDAPRoot#</DistinguishedName>
+	<ExposeForReuse>false</ExposeForReuse>
+	<type>Application</type>
+	<Subroles/>
+	<Superroles/>
+	<configuredTasks/>
+</RoleDesignTime>
